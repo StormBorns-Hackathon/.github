@@ -1,12 +1,54 @@
-## **Stormborn** is a sobriquet (nickname) for **Daenerys Targaryen** in Game of Thrones, signifying she was born during a massive, destructive storm on Dragonstone. It symbolizes her chaotic, destructive nature and her resilience, as she was born during the fall of her family's dynasty, yet survived, reflecting a destiny of immense power.
+<div align="center">
 
-<!--
+```
+░██████╗████████╗░█████╗░██████╗░███╗░░░███╗██████╗░░█████╗░██████╗░███╗░░██╗░██████╗
+██╔════╝╚══██╔══╝██╔══██╗██╔══██╗████╗░████║██╔══██╗██╔══██╗██╔══██╗████╗░██║██╔════╝
+╚█████╗░░░░██║░░░██║░░██║██████╔╝██╔████╔██║██████╦╝██║░░██║██████╔╝██╔██╗██║╚█████╗░
+░╚═══██╗░░░██║░░░██║░░██║██╔══██╗██║╚██╔╝██║██╔══██╗██║░░██║██╔══██╗██║╚████║░╚═══██╗
+██████╔╝░░░██║░░░╚█████╔╝██║░░██║██║░╚═╝░██║██████╦╝╚█████╔╝██║░░██║██║░╚███║██████╔╝
+╚═════╝░░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚═╝░░░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░
+```
 
-**Here are some ideas to get you started:**
+### *Born of storm. Forged by fire.*
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+> **Stormborn** — a sobriquet carried by **Daenerys Targaryen**,
+> first of her name, rightful heir to the Iron Throne.
+
+---
+
+</div>
+
+## ⚡ The Name
+
+*Stormborn* is not merely a title — it is a prophecy written by the sky itself.
+
+Daenerys came into the world on **Dragonstone** during the most violent tempest in a generation. Ships shattered. Towers cracked. And in the eye of that chaos, a child was born — one who would not break, but **become** the storm.
+
+The name carries two truths at once:
+
+| Symbol | Meaning |
+|--------|---------|
+| 🌩️ The Storm | Chaos, destruction, the fall of House Targaryen |
+| 🔥 The Survivor | Resilience, rebirth, a destiny that cannot be denied |
+
+---
+
+## 🐉 Why It Matters
+
+She was born into ruin — her family's dynasty crumbling, her father slain, her home surrendered. By every measure, she should not have survived.
+
+But she did.
+
+And in surviving, she embodied the paradox the name proclaims: **born of catastrophe, destined for power**. The storm that should have swallowed her whole instead became the force that defined her.
+
+> *"I am Daenerys Stormborn of House Targaryen. I will take what is mine — with fire and blood."*
+
+---
+
+<div align="center">
+
+*⚔️ StormBorns Hackathon — build like the storm that made you ⚔️*
+
+</div>
