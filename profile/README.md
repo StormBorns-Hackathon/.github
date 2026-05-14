@@ -52,3 +52,9 @@ And in surviving, she embodied the paradox the name proclaims: **born of catastr
 *⚔️ StormBorns Hackathon - build like the storm that made you ⚔️*
 
 </div>
+
+---
+
+## Important Links
+
+- Notion link for prompts: [Click here](https://www.notion.so/PROMPTS-355423d5ea398057a8f5fe8dd6107010?source=copy_link)
