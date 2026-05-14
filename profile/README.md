@@ -1,4 +1,4 @@
-## Hi there 👋
+## **Stormborn** is a sobriquet (nickname) for **Daenerys Targaryen** in Game of Thrones, signifying she was born during a massive, destructive storm on Dragonstone. It symbolizes her chaotic, destructive nature and her resilience, as she was born during the fall of her family's dynasty, yet survived, reflecting a destiny of immense power.
 
 <!--
 
