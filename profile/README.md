@@ -47,7 +47,7 @@ And in surviving, she embodied the paradox the name proclaims: **born of catastr
 
 ---
 
-## 🚀 Built at StormBorns Hackathon
+## 🚀 Built by StormBorns at Anvil Hackathon
 
 ### [Nexus](https://github.com/StormBorns/nexus) — Autonomous Multi-Agent Pipelines
 
@@ -73,7 +73,7 @@ Webhook Signal  →  Planner Agent  →  Researcher Agent  →  Action Agent  �
 
 <div align="center">
 
-*⚔️ StormBorns Hackathon - build like the storm that made you ⚔️*
+*⚔️ StormBorns - build like the storm that made you ⚔️*
 
 </div>
 
