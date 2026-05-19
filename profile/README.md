@@ -47,6 +47,30 @@ And in surviving, she embodied the paradox the name proclaims: **born of catastr
 
 ---
 
+## 🚀 Built at StormBorns Hackathon
+
+### [Nexus](https://github.com/StormBorns/nexus) — Autonomous Multi-Agent Pipelines
+
+> *Drop a signal. Get a completed action.*
+
+**Nexus** is an autonomous pipeline that transforms webhook signals into real-world deliverables — without human intervention. Fire a GitHub PR URL, watch three specialized agents plan, research, and act in under 60 seconds.
+
+**How it works:**
+
+```
+Webhook Signal  →  Planner Agent  →  Researcher Agent  →  Action Agent  →  Slack / Discord / Custom
+```
+
+- 🧠 **Planner** — decomposes the signal into research tasks and an action plan
+- 🔍 **Researcher** — searches the web via Tavily, synthesizes findings
+- ⚡ **Action** — composes and delivers a structured report to Slack (or any webhook)
+- 📡 **Live trace dashboard** — watch every agent step stream in real-time via WebSocket
+- 🔗 **Integrations** — GitHub App, Slack OAuth, Discord, custom outgoing webhooks
+
+**Stack:** FastAPI · LangGraph · PostgreSQL · React · TypeScript · Tailwind CSS
+
+---
+
 <div align="center">
 
 *⚔️ StormBorns Hackathon - build like the storm that made you ⚔️*
